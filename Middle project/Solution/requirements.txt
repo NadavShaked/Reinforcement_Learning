@@ -1,0 +1,8 @@
+numpy
+matplotlib
+gym
+pygame
+IPython
+pyvirtualdisplay
+piglet
+PyOpenGL

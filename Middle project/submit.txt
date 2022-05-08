@@ -1,0 +1,7 @@
+Link to notebook: https://colab.research.google.com/drive/1GCIQBrPPNBGWcvwujprAzS8VCVyIgW0M
+
+Full name student number 1: Nadav Shaked
+ID student number 1: 312494925
+
+Full name student number 2: Michael Glustein
+ID student number 2: 203929500
