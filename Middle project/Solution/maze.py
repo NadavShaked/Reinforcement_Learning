@@ -111,7 +111,7 @@ class MazeEnv(gym.Env):
             reward = 1
             done = True
         else:
-            reward = -0.1 / (self.maze_size[0] * self.maze_size[1]) # todo: update here
+            reward = -0.1 / (self.maze_size[0] * self.maze_size[1])
             done = False
 
         self.state = self.maze_view.robot
