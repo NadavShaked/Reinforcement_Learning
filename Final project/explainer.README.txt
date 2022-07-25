@@ -1,0 +1,21 @@
+# Reinforcment Learning - Final Project
+
+Link to notebook: https://colab.research.google.com/drive/1Awk9ir5vNH0lU9QfFHtts8kOa7n6V4tN?usp=sharing
+
+NOTE 1: Input your workspace directory (end with \). Place all model weights in "saved_models/" folder in workspace and do not change weights naming.
+NOTE 2: You must run on GPU.
+
+1. Select MODE: "debug" for training, or "Presentation" for running trained models.
+
+2. Run the following sections "Installs and Imports", "Display Utils", "Util functions"
+
+3. Chose parameters (global + training) and run all "Models".
+
+4. TRAIN only: Select algorithm, environment and exercise (configuration) and begin training. 
+Note: if the models flag "should_load=False", model will train from scratch overwriting any existing model.
+However, if you do not have all files you must flag "should_load=False" to begin training
+
+5. RUN: If in presentation mode, use the algorithm given (do not change as we present only one model per exercise) and run the colab.
+Each block will run one iteration and show a video, then run 100 iterations and plot a graph.
+
+

@@ -1,0 +1,8 @@
+Link to notebook: https://colab.research.google.com/drive/1Awk9ir5vNH0lU9QfFHtts8kOa7n6V4tN?usp=sharing
+Link to model weights: https://drive.google.com/drive/folders/1W5RkB4GcVuzIfPQJ6rk60JPf3Cp8xPHM
+
+Full name student number 1: Nadav Shaked
+ID student number 1: 312494925
+
+Full name student number 2: Michael Glustein
+ID student number 2: 203929500
